@@ -1,0 +1,17 @@
+[
+  {"question": "What is the GST rate in Singapore?", "expected": "gst-basics.md"},
+  {"question": "When is GST registration compulsory?", "expected": "gst-basics.md"},
+  {"question": "Can I claim input tax on club subscription fees?", "expected": "gst-basics.md"},
+  {"question": "How often is GST F5 filed?", "expected": "gst-basics.md"},
+  {"question": "Where do I record a Figma subscription?", "expected": "expense-categories.md"},
+  {"question": "Is a new laptop an expense or an asset?", "expected": "expense-categories.md"},
+  {"question": "Which account do client lunches go to?", "expected": "expense-categories.md"},
+  {"question": "How should card processing fees be categorised?", "expected": "expense-categories.md"},
+  {"question": "What do I do with unmatched bank statement lines?", "expected": "month-end-close.md"},
+  {"question": "Why lock a period after month end?", "expected": "month-end-close.md"},
+  {"question": "Can I edit an invoice after issuing it?", "expected": "invoices-and-credit-notes.md"},
+  {"question": "How do I cancel an issued invoice?", "expected": "invoices-and-credit-notes.md"},
+  {"question": "What happens when a customer pays half an invoice?", "expected": "invoices-and-credit-notes.md"},
+  {"question": "What is a realised FX loss?", "expected": "fx-gains-losses.md"},
+  {"question": "Why do unrealised gains reverse later?", "expected": "fx-gains-losses.md"}
+]
